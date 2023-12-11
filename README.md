@@ -1,31 +1,50 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1528605248644-14dd04022da1?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8dGVhbSUyMG9mJTIwcGVvcGxlfGVufDB8fHx8MTY2MDMxNzQzNg&ixlib=rb-1.2.1&q=80
-coverY: 0
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# 👋 Welcome!
+# FAQ
 
 {% hint style="info" %}
-**About this template:** An Internal Wiki to lay out everything anyone needs to know about the company, help others get to know your team, product or company better..
+Click on the icon to expand the question. For each question there is a section called <mark style="color:green;">`oneliner`</mark> and <mark style="color:blue;">`extended`</mark>. These sections are for short and long answers. Read the long form answer if you want a more technical deep dive.
 {% endhint %}
-
-For **new team members**, this space will be helpful during your first days with the team, to better learn about who we are and how we work.
-
-For **long-time team members**, this space will act as a reminder and allow you to find answers about admin and policies etc.
 
 <details>
 
-<summary>How to use it?</summary>
+<summary>What is NaoNao?</summary>
 
-This space is designed to be read linearly, so start with our Vision, Mission & Focus and work down from there! We recommend reading everything through in one sitting and then revisiting and re-reading if you need to.
+#### <mark style="color:green;">`oneliner`</mark>
+
+NaoNao shows you what is happening right now!
+
+#### <mark style="color:blue;">`extended`</mark>
+
+The NaoNao platform enables people to do stuff together, online, in realtime. NaoNao is a hybrid experiment between Web2 and Web3 technologies, running onchain and offchain. NaoNao is a place that you can make your own, enabling human experiences with people anywhere in the world. Describing NaoNao as a network state, the NaoNao economy is a free market for coordinating human behaviour.
 
 </details>
 
 <details>
 
-<summary>Contributing</summary>
+<summary>What behaviour does NaoNao try to incentivize?</summary>
 
-If you want to contribute changes, start a new change request and submit it for review. The People team will review it soon after.
+#### <mark style="color:green;">`oneliner`</mark>
+
+NaoNao helps you find something cool to do online together with other people!
+
+#### <mark style="color:blue;">`extended`</mark>
+
+The underlying mechanism design incentivizes two main behaviours in a free market fashion. That is the production and consumption of online events.&#x20;
+
+1. The production and organization of online events is done by **Producers**, which are subject to financial incentives and attention incentives. Adding events to the NaoNao platform eventually leads to earning money via platform revenue share. Adding events to the NaoNao platform eventually leads to attracting users via event listings on the platform.
+2. The consumption and verification of online events is done by **Consumers**, which are subject to curiosity incentives and entertainment incentives. Looking for events on the NaoNao platform leads to discovering projects that have been unknown to the user so far. Looking for events on the NaoNao platform leads to discovering activities that are fun and interesting.
 
 </details>
