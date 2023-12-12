@@ -66,7 +66,9 @@ Ok, what is even the problem? Imagine Alice and Bob. Alice is on Discord and Bob
 
 Another angle. Same struggle. Any producer of any (public) good announces whatever news they have within a sea of attention seeking competition. The community AMA of your favourite DeFi protocol is announced in that Discord server that I am not even part of. And maybe I am on Twitter but I do neither follow you nor your favourite DeFi protocol. What we call social media was designed to share information. And more information begets more information, leading to very low signal to noise ratios. NaoNao was build to share behaviour. The announcement of the behaviour that you want to tell the world about can be indexed and shown to people who want to know about your industry, your niche and your goals. Social media talks the walk. NaoNao walks the talk.
 
-NaoNao is build to organize all the online activities scattered across the internet and make them discoverable for you.
+And then, from a user point of view. How easy was it for you recently to find what you were looking for on Discord or Twitter? There is an insurmountable sea of posts, comments, replies, cat pictures and memes in any platform you use, because these platforms were build to amass any kind of unstructured content without any meaningful way of filtering the noise. Nowadays we stumble into news that are relevant to us because serendipity had it you should see something once in a while that is in fact interesting to you.&#x20;
+
+NaoNao is build without any underlying algorithmic bias. NaoNao does not shamelessly amplify the most emotional hot topic of the day. NaoNao is build to organize all the online activities scattered across the internet and make them discoverable for you. NaoNao is build for you to get back control of your life online.
 
 </details>
 
@@ -80,7 +82,7 @@ Whenever you want to do something online, you find it on NaoNao within 60 second
 
 #### <mark style="color:blue;">`extended`</mark>
 
-Google organized online information. NaoNao organizes online behaviour. Imagine the body of knowledge of Wikipedia as an open and abstract data layer. Humans coordinated to write down what we know today, so that anyone with an internet connection can learn about it.&#x20;
+Google organized the world's online information. NaoNao organizes the world's online behaviour. Imagine the body of knowledge of Wikipedia as an open and abstract data layer. Humans coordinated to write down what we know today, so that anyone with an internet connection can learn about it. NaoNao aims to be the open and abstract data layer for online activity. If there is going to be a metaverse, then NaoNao is going to be the access point.
 
 Now imagine the magic of the metaverse as an open and abstract data layer. You want to do something online and ask your personal agent what is awesome to do this time around. The agent tells you about this thing called Vibefloor. A nice little club organizing digitial dance floors. The lineup is a banger and they just started a couple of minutes ago. You pay a little to enter the lounge and see a couple of familiar faces already. All along you were already wearing your AR glasses. Because let's be honest, what would you do without them these days. Right in front of your eyes, you swipe through the dancers and attractions until you find the one that is really stealing the show. The experience is so fresh you can almost smell the paint of the projected Monet on the wall, all the while you hang out in your living room or favourite street cafe.
 
