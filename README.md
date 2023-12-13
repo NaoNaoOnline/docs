@@ -89,7 +89,7 @@ While the above is only one example of a potential future, NaoNao exists to crea
 
 <details>
 
-<summary>What can be found on NaoNao?</summary>
+<summary>What kind of events can be found on NaoNao?</summary>
 
 #### <mark style="color:green;">`oneliner`</mark>
 
@@ -115,5 +115,6 @@ But let's be more concrete. Here is a not so complete list of things we can alre
 * `vibefloor` TODO
 * `warmspace` TODO
 * `workshops` TODO
+* `web3 games` TODO
 
 </details>
