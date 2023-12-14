@@ -1,6 +1,8 @@
 # Glossary
 
-
+{% hint style="info" %}
+Below are simple descriptions for terminology used across the public documentation. If concepts and phrases are used somewhere, you should find an explanation for what they mean below. Alternatively, you can try asking a question in the upper right corner. The integrated AI search might be able to explain what's what.
+{% endhint %}
 
 <details>
 

@@ -5,3 +5,4 @@
   * [Monetization Strategy](faq/monetization-strategy.md)
   * [Premium Subscriptions](faq/premium-subscriptions.md)
 * [Glossary](glossary.md)
+* [Metrics](metrics.md)
