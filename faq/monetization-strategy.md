@@ -13,3 +13,22 @@ NaoNao takes a service fee from all premium subscriptions.&#x20;
 The incentive system on the NaoNao platform is based on Premium Subscriptions. Users subscribe for premium features by directly sending the subscription fee every month to their favourite content creators. The payment process is facilitated by a smart contract deployed on various L2s. When a user pays the subscription fee, the smart contract processing the transaction deducts the NaoNao service fee and forwards the rest of the subscription fee to the selected content creators.
 
 </details>
+
+<details>
+
+<summary>How does NaoNao capture value?</summary>
+
+#### <mark style="color:green;">`oneliner`</mark>
+
+NaoNao creates value by indexing useful online activities.
+
+#### <mark style="color:blue;">`extended`</mark>
+
+Let's break it down:
+
+* online events have value
+* indexing more online events captures more value
+* more value captured convinces users to subscribe
+* more subscriptions imply higher revenue
+
+</details>

@@ -71,24 +71,6 @@ NaoNao is build without any underlying algorithmic bias. NaoNao does not shamele
 
 <details>
 
-<summary>What is NaoNao's vision?</summary>
-
-#### <mark style="color:green;">`oneliner`</mark>
-
-Whenever you want to do something online, you find it on NaoNao within 60 seconds.
-
-#### <mark style="color:blue;">`extended`</mark>
-
-Google organized the world's online information. NaoNao organizes the world's online behaviour. Imagine the body of knowledge of Wikipedia as an open and abstract data layer. Humans coordinated to write down what we know today, so that anyone with an internet connection can learn about it. NaoNao aims to be the open and abstract data layer for online activity. If there is going to be a metaverse, then NaoNao is going to be the access point.
-
-Now imagine the magic of the metaverse as an open and abstract data layer. You want to do something online and ask your personal agent what is awesome to do this time around. The agent tells you about this thing called Vibefloor. A nice little club organizing digitial dance floors. The lineup is a banger and they just started a couple of minutes ago. You pay a little to enter the lounge and see a couple of familiar faces already. All along you were already wearing your AR glasses. Because let's be honest, what would you do without them these days. Right in front of your eyes, you swipe through the dancers and attractions until you find the one that is really stealing the show. The experience is so fresh you can almost smell the paint of the projected Monet on the wall, all the while you hang out in your living room or favourite street cafe.
-
-While the above is only one example of a potential future, NaoNao exists to create an abstract data layer for all online activity, so behaviour can be organized and surfaced to whoever needs it right now. The interfaces of the future will be conversational, with an agent on your side that provides you with the digital horsepower to make the metaverse your own, to live the fullest of your life online.
-
-</details>
-
-<details>
-
 <summary>What kind of events can be found on NaoNao?</summary>
 
 #### <mark style="color:green;">`oneliner`</mark>
@@ -116,5 +98,41 @@ But let's be more concrete. Here is a not so complete list of things we can alre
 * `warmspace` TODO
 * `workshops` TODO
 * `web3 games` TODO
+
+</details>
+
+<details>
+
+<summary>What is NaoNao's vision?</summary>
+
+#### <mark style="color:green;">`oneliner`</mark>
+
+Whenever you want to do something online, you find it on NaoNao within 60 seconds.
+
+#### <mark style="color:blue;">`extended`</mark>
+
+Google organized the world's online information. NaoNao organizes the world's online behaviour. Imagine the body of knowledge of Wikipedia as an open and abstract data layer. Humans coordinated to write down what we know today, so that anyone with an internet connection can learn about it. NaoNao aims to be the open and abstract data layer for online activity. If there is going to be a metaverse, then NaoNao is going to be its gateway.
+
+Now imagine the magic of the metaverse as an open and abstract data layer. You want to do something online and ask your personal agent what is awesome to do this time around. The agent tells you about this thing called Vibefloor. A nice little club organizing digitial dance floors. The lineup is a banger and they just started a couple of minutes ago. You pay a little to enter the lounge and see a couple of familiar faces already. All along you were already wearing your AR glasses. Because let's be honest, what would you do without them these days. Right in front of your eyes, you swipe through the dancers and attractions until you find the one that is really stealing the show. The experience is so fresh you can almost smell the paint of the projected Monet on the wall, all the while you hang out in your living room or favourite street cafe.
+
+While the above is only one example of a potential future, NaoNao exists to create an abstract data layer for all online activity, so behaviour can be organized and surfaced to whoever needs it right now. The interfaces of the future will be conversational, with an agent on your side that provides you with the digital horsepower to make the metaverse your own, to live the fullest of your life online.
+
+</details>
+
+<details>
+
+<summary>What is the Endgame for NaoNao?</summary>
+
+#### <mark style="color:green;">`oneliner`</mark>
+
+NaoNao will be the organic hyperstructure data layer metaverse gateway.
+
+#### <mark style="color:blue;">`extended`</mark>
+
+Human language is not sufficient to explain NaoNao's Endgame colloquially, so we have to break this down more.&#x20;
+
+* Organic hyperstructure in the sense of NaoNao's Endgame represents the natural engagement of many communities at global scale. Those communities may or may not know about each other, even though they may or may not interact with each other. The essence of an organic hyperstructure here is that value is being created for more or less selfish reasons, but, in the process, populated throughout the hyperstructure to serve as a public good. In more concrete terms, even if I add an event on NaoNao because I want to get paid, you may enjoy the event that I added, without necessarily knowing that I added the event, and without necessarily rewarding me for doing so.
+* Data layer in the sense of NaoNao's Endgame represents the body of behaviour indexed that individuals engage in together online in realtime. Today people primarily use the internet to produce and consume information. While this will always be true, the amount of realtime behaviour facilitated online in realtime between individuals will constantly increase up to the point of an equilibrium. Almost all equilibrium amount of online activities will be indexed on NaoNao for anyone to participate in. The data layer this organic hyperstructure will maintain in realtime will be thin, encompassing the entire world.
+* Metaverse gateway in the sense of NaoNao's Endgame represents the digital [focal point](https://en.wikipedia.org/wiki/Focal\_point\_\(game\_theory\)) used to access any online activity happening inside the metaverse. NaoNao will not be the metaverse itself. Nothing in and of itself can be the metaverse. The metaverse is the entirety of digital activity. What NaoNao will do is to make all of this activity visible and accessibly, by organizing the mere existance of said behaviour for individuals to consume. Imagine a portal that allows you to go anywhere within the digital realm. This is the metaverse gateway. This is NaoNao.
 
 </details>
