@@ -129,7 +129,7 @@ NaoNao will be the organic hyperstructure data layer metaverse gateway.
 
 #### <mark style="color:blue;">`extended`</mark>
 
-Human language is not sufficient to explain NaoNao's Endgame colloquially, so we have to break this down more.&#x20;
+Human language is not sufficient to explain NaoNao's Endgame colloquially, so we have to break this down a little bit more.&#x20;
 
 * Organic hyperstructure in the sense of NaoNao's Endgame represents the natural engagement of many communities at global scale. Those communities may or may not know about each other, even though they may or may not interact with each other. The essence of an organic hyperstructure here is that value is being created for more or less selfish reasons, but, in the process, populated throughout the hyperstructure to serve as a public good. In more concrete terms, even if I add an event on NaoNao because I want to get paid, you may enjoy the event that I added, without necessarily knowing that I added the event, and without necessarily rewarding me for doing so.
 * Data layer in the sense of NaoNao's Endgame represents the body of behaviour indexed that individuals engage in together online in realtime. Today people primarily use the internet to produce and consume information. While this will always be true, the amount of realtime behaviour facilitated online in realtime between individuals will constantly increase up to the point of an equilibrium. Almost all equilibrium amount of online activities will be indexed on NaoNao for anyone to participate in. The data layer this organic hyperstructure will maintain in realtime will be thin, encompassing the entire world.
