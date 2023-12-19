@@ -11,6 +11,7 @@
 ## Business Insights
 
 * [Metrics](business-insights/metrics.md)
+* [Truth](business-insights/truth.md)
 
 ## Technical Details
 

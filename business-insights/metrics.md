@@ -1,8 +1,16 @@
 # Metrics
 
 {% hint style="info" %}
-Building NaoNao makes certain assumptions about the business model and user behaviour. Below are ideas for Key Performance Indicators that should be monitored in order to inform future adjustments of the roadmap and the platform overall. Note that these metrics or their relevance might change as theories are validated or invalidated over time.
+Building NaoNao makes certain assumptions about the business model and user behaviour. Below are ideas for Key Performance Indicators that should be monitored in order to inform future adjustments of the roadmap and the platform overall. Note that these metrics or their relevance might change as theories are validated or invalidated over time. Further note that every statistic can be gamed. And so it is very important to understand the second order effects of obsessing over a single metric that might very well be wrong, bad or irrelevant, or, all of the above.
 {% endhint %}
+
+<details>
+
+<summary>The amount of events happening at the same time at any given moment.</summary>
+
+If the mission is to create a thin data layer for online events all around the globe, then arguably one metric to pay attention to is the amount of online activities happening at the same time in any given moment. Regardless of a user's geographic location, they should be able to find the very shared experience as quickly as possible that they were in fact looking for. And one precondition to enable such a user experience is the amount of available events to choose from.&#x20;
+
+</details>
 
 <details>
 
