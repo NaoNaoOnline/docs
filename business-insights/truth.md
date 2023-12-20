@@ -22,6 +22,6 @@ _Why is this north star about trust and not about safety? "Always true" defines 
 
 The world is a dark forest. And amidst the dark there are glimmers of light. This light is the magic created within a moment, and people want to experience it. People will never not want to experience magical moments. What is magic is different for every individual, but what is magic, is what is being appreciated, always.&#x20;
 
-Magic might be another person that we meet. Magic might be whatever serendipity throws at us. Magic might be a pleasnt surprise. Magic might be the way an interface works. Magic might be to quickly find what you are looking for. Magic might be to feel whole.
+Magic might be another person that we need right in that moment. Magic might be whatever serendipity throws at us. Magic might be a pleasant surprise. Magic might be to gamble the pension away and have the time of your life doing it. Magic might be the way an interface works. Magic might be to quickly find what you are looking for. Magic might be to feel whole.
 
 </details>

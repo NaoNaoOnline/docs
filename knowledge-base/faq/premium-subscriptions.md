@@ -55,6 +55,20 @@ Another angle here is [Retroactive-Public-Goods-Funding](https://medium.com/ethe
 
 <details>
 
+<summary>Can I gift a Premium Subscription to a friend?</summary>
+
+#### <mark style="color:green;">`oneliner`</mark>
+
+Yes you can!
+
+#### <mark style="color:blue;">`extended`</mark>
+
+The subscription smart contract is designed to configure the subscription receiver. That means the user paying for the subscription and the user receiving the subscription can be different individuals. Maybe you can make somebody smile by gifting them a NaoNao Premium Subscription. You know how the saying goes. If you can be anything, be kind.
+
+</details>
+
+<details>
+
 <summary>How much does the Premium Subscription cost?</summary>
 
 #### <mark style="color:green;">`oneliner`</mark>
