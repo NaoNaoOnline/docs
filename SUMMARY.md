@@ -18,3 +18,10 @@
 * [Contracts](technical-details/contracts/README.md)
   * [Policy](technical-details/contracts/policy.md)
   * [Subscription](technical-details/contracts/subscription.md)
+
+## Official Links
+
+* [Discord](https://discord.com/invite/J2MnbQvwqg)
+* [Frontend](https://naonao.online)
+* [Github](https://github.com/NaoNaoOnline)
+* [Twitter](https://twitter.com/NaoNao\_Online)
