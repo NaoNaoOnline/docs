@@ -88,16 +88,18 @@ Let's start with a feeling, a thought or maybe an idea that moves you. Using Nao
 
 But let's be more concrete. Here is a not so complete list of things we can already do together online. Moving forward, the amount of ways in which humans can engage online is only bound to increase. And if it does not exist, maybe you should go and create it!
 
-* `book club` read books together and discuss your takeaways&#x20;
+* `book club` read books together and discuss your takeaways
+* `music streams` interactive live music produced by your favourite DJ
 * `poetry night` narrate your poems and get inspired by others
-* `expert panel` public discourse on any topic you are prefer
-* `love on leverage` live prediction market for online dating
-* `friend.tech` TODO
-* `community AMAs` TODO
-* `vibefloor` TODO
-* `warmspace` TODO
-* `workshops` TODO
-* `web3 games` TODO
+* `product drops` exclusive live access to wearables from your favourite brand
+* `expert panel` public discourse on any topic that you are curious about
+* `love on leverage` live prediction markets for online dating
+* `friend.tech` premium access to domain experts
+* `community calls` finding truth and governance of online communities
+* `vibefloor` metaverse dance parties for your avatar
+* `warmspace` connect with people emotionally in guided conversations
+* `workshops` working together on a crafty or technical project
+* `web3 games` playing games in which you own your success
 
 </details>
 

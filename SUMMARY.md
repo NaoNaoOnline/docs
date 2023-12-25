@@ -10,6 +10,7 @@
 
 ## Business Insights
 
+* [Inspiration](business-insights/inspiration.md)
 * [Metrics](business-insights/metrics.md)
 * [Truth](business-insights/truth.md)
 
