@@ -7,6 +7,10 @@
   * [Monetization Strategy](knowledge-base/faq/monetization-strategy.md)
   * [Premium Subscriptions](knowledge-base/faq/premium-subscriptions.md)
 * [Glossary](knowledge-base/glossary.md)
+* [Tutorials](knowledge-base/tutorials/README.md)
+  * [Add a new Event](knowledge-base/tutorials/add-a-new-event.md)
+  * [Create your own List](knowledge-base/tutorials/create-your-own-list.md)
+  * [Go to an Event](knowledge-base/tutorials/go-to-an-event.md)
 
 ## Business Insights
 
